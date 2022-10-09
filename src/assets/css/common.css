@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+  background-color: #f3f3f3;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+input,button,img{
+  border: none;
+}
+
+.active{
+  color: #409EFF;
+}
